@@ -28,3 +28,4 @@ My TODO list:
 Learning Resources:
 - [Educative.co](https://www.educative.io/)
 - https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
+- https://www.youtube.com/watch?v=4UyBxlJChfc&ab_channel=UvADeepLearningcourse
